@@ -9,7 +9,7 @@ Start by creating a google form to collect your data ,once it is collected fill 
 
 Run the exe file directly 
 
-*You can download the Augmento.exe file for windows from the releases page and enjoy*
+*You can download the FCFS.exe file for windows from the releases page*
 
 **OR**
 
