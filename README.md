@@ -7,7 +7,9 @@ Start by creating a google form to collect your data ,once it is collected fill 
 
 [DataTemplate.xlsx](https://github.com/Ahmedhussein99/FCFS/files/8840825/DataTemplate.xlsx)
 
-Run the exe file directly
+Run the exe file directly 
+
+*You can download the Augmento.exe file for windows from the releases page and enjoy*
 
 **OR**
 
