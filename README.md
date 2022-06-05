@@ -7,11 +7,17 @@ Start by creating a google form to collect your data ,once it is collected fill 
 
 [DataTemplate.xlsx](https://github.com/Ahmedhussein99/FCFS/files/8840825/DataTemplate.xlsx)
 
+Run the exe file directly
+
+**OR**
+
 Install all libraries needed using this command:
 ```
 pip install -r requirements.txt
 ```
-Run the FCFS2.py and click on open button and chose your datatemplate.xlsx
+Then run the FCFS2.py 
+
+Once the program starts click on open button and chose your datatemplate.xlsx
 
 ![image](https://user-images.githubusercontent.com/54689145/172071972-ef98745c-dcd0-409f-8b20-a7ff1530fea6.png)
 
