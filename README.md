@@ -1,7 +1,7 @@
 # FCFS
 FCFS python 
 
-This version is limited to 3 options only
+This version is limited to 3 options/preferences only
 
 Start by creating a google form to collect your data ,once it is collected fill it in the template excel below:
 
